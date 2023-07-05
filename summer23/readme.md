@@ -16,9 +16,9 @@ Make sure you have the following software installed on your computer:
 ### Running the Script
 To plot functions using the provided Python script, follow these steps:
 
-1. Open a terminal or command prompt.\
-2. Navigate to the directory where the script is located.\
-3. Run the following command:\
+1. Open a terminal or command prompt.
+2. Navigate to the directory where the script is located.
+3. Run the following command:
 
 python3 plot_blatt10.py
 
