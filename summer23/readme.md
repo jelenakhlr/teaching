@@ -5,7 +5,7 @@ Sommersemester 2023, Karlsruher Institut für Technologie
 Jelena Köhler, @jelenakhlr
 
 ## Description
-This repository contains a collection of Python scripts for plotting functions. These scripts are designed to assist students in [Course Name] with visualizing mathematical functions.
+This repository contains a collection of Python scripts for plotting functions. These scripts are designed to assist students in Exp2 with visualizing mathematical functions. Specifically, it uses the functions from exercise 10.3 of the Exp2 course at KIT in summer 2023.
 
 ## Instructions
 
